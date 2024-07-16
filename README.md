@@ -6,4 +6,4 @@ Study Group Members:
 1. Kathleen Ocampo
 2. Carl Beltran
 3. Carl Andre
-4. FJ
+4. FJ Aguiluz  
