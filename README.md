@@ -5,5 +5,5 @@ Calculate the data based on the "per host" or "per subnet" option. Will display 
 Study Group Members:
 1. Kathleen Ocampo
 2. Carl Beltran
-3. Carl Andre
-4. FJ Aguiluz  
+3. Carl Andre Interino
+4. Franzel Jordan Aguiluz  
